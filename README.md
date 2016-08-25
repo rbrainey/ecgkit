@@ -2,6 +2,7 @@
 An IoT-inspired Arduino Electrocardiograph Project
 
 Riley Rainey, 2016
+NOTE: this is a forked version of my [original open source project](https://github.com/rrainey/ecgkit) -- forked here to test Cloud Foundry in SAP HANA Cloud Platform
 
 With an Arduino and inexepensive off-the-shelf shield, you can turn your Android device into an experimental ECG (EKG). Use this Android application, accompanying Arduino sketch, and Node.JS server code to collect and plot ECG data on your device and a server.
 
